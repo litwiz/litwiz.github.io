@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+`👇🏻Click 📕pics to 🔽download.`
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51cVf4y0L-L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzaceafh7h3pys7iigiaovlmhk3hrd63amw6bdemwu3myk673skcggllu?filename=Agrippa%20Occult.pdf)
 
